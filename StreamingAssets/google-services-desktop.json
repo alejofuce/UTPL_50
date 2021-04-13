@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578329756213",
+    "project_id": "campusutpl-50anios",
+    "storage_bucket": "campusutpl-50anios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578329756213:android:2a21153eb8ee23f125677c",
+        "android_client_info": {
+          "package_name": "com.DTE.CampusUtpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578329756213-e4enql23o2eb6bcccs8j2f23vkhpmuov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5fVUPQT_LD3Zla06K4-aioadYcZykBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578329756213-e4enql23o2eb6bcccs8j2f23vkhpmuov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
